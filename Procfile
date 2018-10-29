@@ -1,0 +1,1 @@
+web: gunicorn fib:app --log-file=-
